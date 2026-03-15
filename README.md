@@ -17,7 +17,7 @@ The Superstore Sales Performance Dashboard is an Exploratory Data Analysis (EDA)
 
 ## How to Run the Project
 
-1. **Download the provided 'superstore.csv' file** and place it in the same folder as 'app.py'
+1. **Download the provided 'superstore.csv' file** and place it in the same folder as `app.py`
 2. **Ensure Python is installed** on your device.
 3. **Open a terminal** and navigate to the folder where you saved the project files.
 4. **Install the required dependencies** by running the pip install command with the 'requirements.txt' file
