@@ -21,10 +21,7 @@ The Superstore Sales Performance Dashboard is an Exploratory Data Analysis (EDA)
 2. **Ensure Python is installed** on your device.
 3. **Open a terminal** and navigate to the folder where you saved the project files.
 4. **Install the required dependencies** by running the pip install command with the 'requirements.txt' file
-5. **Launch the Streamlit app** by running:
-'''
-streamlit run app.py
-'''
+5. **Launch the Streamlit app** by running: `streamlit run app.py`
 6. **Open the dashboard** in your browser - Streamlit will automatically open it.
 7. **Use the sidebar controls** on the left to explore the dataset interactively.
 
